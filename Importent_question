@@ -1,7 +1,11 @@
-Basic:
-What is React?
+<!-- Content-->
 
+Basic:
+## What is React?
+'''
 React is a JavaScript library developed by Facebook for building user interfaces, especially for single-page applications.
+'''
+
 Why use React instead of other frameworks like Angular or Vue?
 
 React's virtual DOM optimizes rendering and improves performance.
